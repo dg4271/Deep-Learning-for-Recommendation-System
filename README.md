@@ -102,6 +102,8 @@ Latest version of repository is [here](https://github.com/dg4271/Deep-Learning-f
 
 ## Software
 1. Spotlight: deep learning recommender systems in PyTorch <br>
-[[link](https://github.com/maciejkula/spotlight)] <br>
+[link](https://github.com/maciejkula/spotlight) <br>
+2. OpenRec: open-source and modular library for neural network-inspired recommendation algorithms <br>
+[link](https://github.com/ylongqi/openrec) <br>
 
  
